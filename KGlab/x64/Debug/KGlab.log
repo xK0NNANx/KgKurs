@@ -1,0 +1,49 @@
+﻿  Camera.cpp
+  GUItextRectangle.cpp
+  Light.cpp
+D:\GL\LAB2\KGlab\Light.cpp(151,21): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\GL\LAB2\KGlab\Light.cpp(151,26): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\GL\LAB2\KGlab\Light.cpp(151,31): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\GL\LAB2\KGlab\Light.cpp(153,21): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\GL\LAB2\KGlab\Light.cpp(153,26): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\GL\LAB2\KGlab\Light.cpp(153,31): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\GL\LAB2\KGlab\Light.cpp(157,26): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+D:\GL\LAB2\KGlab\Light.cpp(157,26): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+D:\GL\LAB2\KGlab\Light.cpp(157,32): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+D:\GL\LAB2\KGlab\Light.cpp(157,32): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+D:\GL\LAB2\KGlab\Light.cpp(157,38): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+D:\GL\LAB2\KGlab\Light.cpp(157,38): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+  main.cpp
+  MyOGL.cpp
+D:\GL\LAB2\KGlab\MyOGL.cpp(153,16): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+D:\GL\LAB2\KGlab\MyOGL.cpp(156,18): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+  Prism.cpp
+D:\GL\LAB2\KGlab\Prism.cpp(226,19): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\GL\LAB2\KGlab\Prism.cpp(231,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GL\LAB2\KGlab\Prism.cpp(232,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Prism.cpp(241,19): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\GL\LAB2\KGlab\Prism.cpp(246,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GL\LAB2\KGlab\Prism.cpp(247,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Prism.cpp(276,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Prism.cpp(277,19): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\GL\LAB2\KGlab\Prism.cpp(289,15): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Prism.cpp(335,19): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\GL\LAB2\KGlab\Prism.cpp(338,15): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Prism.cpp(339,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Prism.cpp(374,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Prism.cpp(375,19): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+  Render.cpp
+D:\GL\LAB2\KGlab\Render.cpp(206,19): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(206,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(206,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(207,18): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(207,23): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(208,19): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(208,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(208,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(248,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GL\LAB2\KGlab\Render.cpp(249,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\GL\LAB2\KGlab\Render.cpp(265,11): warning C4305: =: усечение из "double" в "float"
+  Создание кода...
+D:\GL\LAB2\KGlab\Prism.cpp(50,1): warning C4172: возвращаемый адрес локальной переменной или временного : N
+  KGlab.vcxproj -> D:\GL\LAB2\x64\Debug\KGlab.exe
